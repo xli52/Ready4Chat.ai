@@ -1,4 +1,4 @@
-# Something.AI
+# Ready4Chat.AI
 
 A powerful AI chat application that enables human-like conversation with fully animated AI characters!
 
